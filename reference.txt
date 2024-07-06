@@ -4,3 +4,6 @@ LangChain:
 Youtube reference : https://www.youtube.com/playlist?list=PLZoTAELRMXVOQPRG7VAuHL--y97opD5GQ
 
 
+problem statement : you have a multipage searchable pdf , develop a question-answering solution using GenAi given a question, 
+the solution should be able to answer with human understandable manner , 
+(not a single or two word answer but answer in a sentence or paragraph)
